@@ -1,0 +1,19 @@
+{
+  "names": [
+    {
+      "id": 1,
+      "title": "Jan"
+    },
+    {
+      "id": 2,
+      "title": "Truus"
+    },
+    {
+      "id": 3,
+      "title": "Greet"
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
