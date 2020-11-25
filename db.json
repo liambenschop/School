@@ -1,7 +1,15 @@
 {
-"names":[
-  {"naam":"John", "achternaam":"Doe"},
-  {"naam":"Anna", "achternaam":"Smith"},
-  {"naam":"Peter", "achternaam":"Jones"}
-]
+  "names": [
+    {
+      "id": 1,
+      "title": "jan"
+    },
+    {
+      "id": 2,
+      "title": "truus"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
