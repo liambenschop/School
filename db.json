@@ -2,11 +2,11 @@
   "names": [
     {
       "id": 1,
-      "title": "jan"
+      "names": "jan"
     },
     {
       "id": 2,
-      "title": "truus"
+      "names": "truus"
     }
   ],
   "profile": {
