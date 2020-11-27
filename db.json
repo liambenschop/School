@@ -9,7 +9,50 @@
       "title": "truus"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "events": [
+    {
+      "id": 1,
+      "name": "Gert",
+      "email": "Gert@hu.nl",
+      "phone_number": 012345678,
+      "date_booked_start": "",
+      "date_booked_end": "",
+      "date_requested": "",
+      "treatments":['Knippen','Verven'],
+      "employee":"Truus"
+    },
+    {
+      "id": 1,
+      "name": "Gert",
+      "email": "Gert@hu.nl",
+      "phone_number": 012345678,
+      "date_booked_start": "",
+      "date_booked_end": "",
+      "date_requested": "",
+      "treatments":['Knippen','Verven'],
+      "employee":"Truus"
+    },
+    {
+      "id": 1,
+      "name": "Gert",
+      "email": "Gert@hu.nl",
+      "phone_number": 012345678,
+      "date_booked_start": "",
+      "date_booked_end": "",
+      "date_requested": "",
+      "treatments":['Knippen','Verven'],
+      "employee":"Truus"
+    },
+    {
+      "id": 1,
+      "name": "Gert",
+      "email": "Gert@hu.nl",
+      "phone_number": 012345678,
+      "date_booked_start": "",
+      "date_booked_end": "",
+      "date_requested": "",
+      "treatments":['Knippen','Verven'],
+      "employee":"Truus"
+    },
+  ],
 }
