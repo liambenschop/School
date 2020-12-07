@@ -29,6 +29,11 @@
          "id":4,
          "title":"Ontverven",
          "duration":"30"
+      },
+      {
+         "id":5,
+         "title":"Stylen",
+         "duration":"30"
       }
    ],
    "events":[
