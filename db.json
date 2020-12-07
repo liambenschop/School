@@ -17,17 +17,17 @@
       },
       {
          "id":2,
-         "title":"Verven"
+         "title":"Verven",
          "duration":"60"
       },
       {
          "id":3,
-         "title":"Olaplex"
+         "title":"Olaplex",
          "duration":"45"
       },
       {
          "id":4,
-         "title":"Ontverven"
+         "title":"Ontverven",
          "duration":"30"
       }
    ],
