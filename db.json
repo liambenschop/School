@@ -9,6 +9,28 @@
          "title":"truus"
       }
    ],
+   "treatments":[
+      {
+         "id":1,
+         "title":"Knippen",
+         "duration":"30"
+      },
+      {
+         "id":2,
+         "title":"Verven"
+         "duration":"60"
+      },
+      {
+         "id":3,
+         "title":"Olaplex"
+         "duration":"45"
+      },
+      {
+         "id":4,
+         "title":"Ontverven"
+         "duration":"30"
+      }
+   ],
    "events":[
       {
          "id":1,
