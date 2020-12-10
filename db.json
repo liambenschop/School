@@ -12,28 +12,13 @@
    "treatments":[
       {
          "id":1,
-         "title":"Knippen & Stylen",
-         "duration":"30"
+         "title":"Massage",
+         "duration":"120"
       },
       {
          "id":2,
-         "title":"Verven",
+         "title":"Voedingscoaching",
          "duration":"60"
-      },
-      {
-         "id":3,
-         "title":"Olaplex",
-         "duration":"45"
-      },
-      {
-         "id":4,
-         "title":"Verven2",
-         "duration":"60"
-      },
-      {
-         "id":5,
-         "title":"Olaplex3",
-         "duration":"45"
       }
    ],
    "events":[
